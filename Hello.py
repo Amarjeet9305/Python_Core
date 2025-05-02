@@ -1,0 +1,3 @@
+#--Print the Statement.....
+
+print("Algorithem in Data Structure")   #----Calling Pre-Define Function then print Statement
